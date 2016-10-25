@@ -41,7 +41,7 @@
   },
   "dependencies": {
     "cross-spawn": "^3.0.1",
-    "jsdoc": "^3.4.0"
+    "jsdoc": "git@github.com:alexheyd/jsdoc.git"
   },
   "peerDependencies": {
     "grunt": ">=0.4.5"
