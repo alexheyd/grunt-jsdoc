@@ -41,7 +41,7 @@
   },
   "dependencies": {
     "cross-spawn": "^3.0.1",
-    "jsdoc": "git@github.com:alexheyd/jsdoc.git"
+    "jsdoc": "https://github.com/alexheyd/jsdoc/tarball/master"
   },
   "peerDependencies": {
     "grunt": ">=0.4.5"
